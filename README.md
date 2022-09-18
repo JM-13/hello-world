@@ -1,1 +1,2 @@
 namų darbas
+print("test")
